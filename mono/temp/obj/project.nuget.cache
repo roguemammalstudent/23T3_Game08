@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nb8ZMB6BXd6mvc0epdwNMIzw2T13tm9nAn3Aoe33rtDWh8mIBUj0ArOZT8guLL1bKHRJ9t8tsmS1V7YLxN0RlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1029626\\Documents\\GitHub\\Git Hub\\23T3_Game08.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1029626\\.nuget\\packages\\godot.sourcegenerators\\4.1.3\\godot.sourcegenerators.4.1.3.nupkg.sha512",
+    "C:\\Users\\1029626\\.nuget\\packages\\godotsharp\\4.1.3\\godotsharp.4.1.3.nupkg.sha512",
+    "C:\\Users\\1029626\\.nuget\\packages\\godotsharpeditor\\4.1.3\\godotsharpeditor.4.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

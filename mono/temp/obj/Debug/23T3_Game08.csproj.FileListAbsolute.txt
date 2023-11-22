@@ -1,0 +1,17 @@
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\obj\Debug\23T3_Game08.csproj.AssemblyReference.cache
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\obj\Debug\23T3_Game08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\obj\Debug\23T3_Game08.AssemblyInfoInputs.cache
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\obj\Debug\23T3_Game08.AssemblyInfo.cs
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\obj\Debug\23T3_Game08.csproj.CoreCompileInputs.cache
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\bin\Debug\23T3_Game08.deps.json
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\bin\Debug\23T3_Game08.runtimeconfig.json
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\bin\Debug\23T3_Game08.dll
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\bin\Debug\23T3_Game08.pdb
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\obj\Debug\23T3_Game08.csproj.CopyComplete
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\obj\Debug\23T3_Game08.dll
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\obj\Debug\refint\23T3_Game08.dll
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\obj\Debug\23T3_Game08.pdb
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\obj\Debug\23T3_Game08.genruntimeconfig.cache
+C:\Users\1029626\Documents\GitHub\Git Hub\.godot\mono\temp\obj\Debug\ref\23T3_Game08.dll
