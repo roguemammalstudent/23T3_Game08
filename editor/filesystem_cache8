@@ -1,3 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1700617952
+::res://::1700777636
+export_presets.cfg::TextFile::-1::1700776181::0::1::::<><>::
 icon.svg::CompressedTexture2D::5538737595053525101::1700194697::1700194702::1::::<><>::
+node_3d.tscn::PackedScene::1086642292977887883::1700777442::0::1::::<><>::res://Player.cs
+Player.cs::CSharpScript::-1::1700777441::0::1::::<><>::
